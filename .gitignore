@@ -52,3 +52,4 @@ Thumbs.db
 assets/Gruntfile.js
 assets/package-lock.json
 assets/package.json
+assets/js/custom.js
